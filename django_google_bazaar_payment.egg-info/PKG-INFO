@@ -95,7 +95,7 @@ Description: # Google Play and Bazaar in-app purchase
 Platform: UNKNOWN
 Classifier: Environment :: Web Environment
 Classifier: Framework :: Django
-Classifier: Framework :: Django :: X.Y  # Replace "X.Y" as appropriate
+Classifier: Framework :: Django :: 2.2
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: BSD License
 Classifier: Operating System :: OS Independent

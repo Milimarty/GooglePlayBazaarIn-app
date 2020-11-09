@@ -7,7 +7,7 @@ This Django app created to check the response token that is taken from Google Pl
 
 ### STEP 1
 #### Install
-1. pip install app
+1. pip install django-google-bazaar-payment
 2. pip install requests
 3. Add "google_bazaar_payment" to your INSTALLED_APPS setting like this:
 ```python
